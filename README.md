@@ -13,3 +13,9 @@ While code generation has been widely used in various software development scena
 ## Dependency
 
 We list the main dependencies for running the code in `./requirements.txt`.
+
+## Information
+
+./Figure7.xlsx: The full data of Figure 7 in the paper.
+
+./Human evaluation of learned causal graph(1-5).xlsx: Human evaluation results.
