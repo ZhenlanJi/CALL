@@ -9,7 +9,7 @@ from tree_sitter import Language, Parser
 
 
 def analyse(code,lan='c_sharp'): # lan='c-sharp' / 'python'
-    PY_LANGUAGE = Language(r'/home/zjiae/Project/CodeGen-Causal-Code/src/CodeBLEU/parser/my-languages.so', lan)
+    PY_LANGUAGE = Language(r'', lan)
     parser = Parser()
     parser.set_language(PY_LANGUAGE)
 
